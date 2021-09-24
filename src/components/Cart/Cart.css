@@ -1,0 +1,13 @@
+.cart-title {
+  text-align: center;
+}
+.cart-iteams {
+  text-align: center;
+}
+.total {
+  color: rgb(177 39 4);
+  font-size: 17px;
+  font-weight: 700;
+  line-height: 22px;
+  border-top: 3px solid gray;
+}
