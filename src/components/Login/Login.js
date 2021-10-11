@@ -26,7 +26,7 @@ const Login = () => {
           <input type='submit' value='Submit' />
         </form>
         <p>
-          new to ema-jhon ? <Link to='register'>Create Account</Link>
+          new to ema-jhon website ? <Link to='register'>Create Account</Link>
         </p>
         <div>--------or--------</div>
         <button className='btn-regular' onClick={handleGoogleLogin}>
